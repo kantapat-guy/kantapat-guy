@@ -94,12 +94,11 @@
 
 
   
-
+<!---
 <br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kantapat.g&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-<br/>  
+<br/>
+-->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kantapat-guy&&style=flat-square" align="center" />
