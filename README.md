@@ -1,7 +1,9 @@
- <div align="center"><h2>Hi 👋, I'm Kantapat Montawan (can call me "Guy")😜 </h2></div>
 
-## <div align="center">I was a production supervisor in a food industry🍗 before I discovered myself that I'd like to be a software developer.</div>  
-  
+
+### <div align="center">Hi 👋, I'm Kantapat Montawan (can call me "Guy")😜</div> 
+#### <div align="center">I was a production supervisor in a food industry🍗 before I discovered myself that I'd like to be a software developer.</div> 
+
+ <div align="center"><h2></h2></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kantapat-guy/kantapat-guy/main/loading.gif" align="center" height="200" width="500" />
@@ -86,8 +88,8 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kantapat-guy&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantapat-guy&theme=dracula&hide_border=true" alt="kantapat-guy" />
+<img src="https://github-readme-stats.vercel.app/api?username=kantapat-guy&show_icons=true&count_private=true&hide_border=true&theme=dracula&layout=compact" align="center" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantapat-guy&theme=dracula&hide_border=true&layout=compact" alt="kantapat-guy" />
 </div>  
 
 <br/>  
